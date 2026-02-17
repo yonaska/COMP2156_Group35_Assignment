@@ -1,1 +1,1 @@
-101203593_sdlc.txt
+Devops improves the Software Development Life Cycle by enabling continuous testing, continuous Development, and faster feedback loops.
