@@ -1,0 +1,2 @@
+Devops is a culture that integrates development and operations to deliver Software faster and more reliably.
+It encourages automation, collaboration, and continuous integration.
