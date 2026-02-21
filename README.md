@@ -7,7 +7,8 @@ Student ID:101203593
 - Ashish Kumar
 - Harpreet Kaur
 ## Project Description
-This repository contains the Devops group assignment including commits, pull requests, and configuration tasks, and CI/CD pipeline setup using GitHub Actions.
+This repository contains the Devops group assignment including commits, pull requests, and configuration tasks,
+and CI/CD pipeline setup using GitHub Actions.
 ## Repository link
 https://github.com/yonaska/COMP2156_Group35_Assignment
 ## Contributions
