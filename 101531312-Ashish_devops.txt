@@ -1,1 +1,2 @@
 COMP 2156 – DevOps for System Administration is a course aimed at equipping students with practical skills to work in the field of DevOps. The course covers concepts such as continuous integration, automation, version control, system administration, and tools like Docker, Kubernetes, and Jenkins. Through hands-on projects, students learn how to streamline the software development lifecycle by improving collaboration between development and operations teams.
+DevOps integrates development and operations to improve the quality of software delivery.
